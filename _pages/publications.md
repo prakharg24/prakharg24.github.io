@@ -7,7 +7,7 @@ author_profile: true
 
 Refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao) for the most up to date publication record.
 
-### Publications
+## Publications
 
 {% include base_path %}
 
@@ -15,7 +15,7 @@ Refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user
   {% include archive-single.html %}
 {% endfor %}
 
-### Preprints
+## Preprints
 
 {% include base_path %}
 
