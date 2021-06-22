@@ -21,6 +21,9 @@ Refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user
 
 ## Publications
 
-* Compressing Large-Scale Transformer-Based Models : A Case Study on BERT
-  published in ...
-  link to the paper ... along with bibtex
+* **P Ganesh**, Y Chen, X Lou, M Khan, Y Yang, H Sajjad, P Nakov, D Chen, M Winslett, _"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"_, accepted in **TACL**, 2021
+[\[arxiv\]](https://arxiv.org/abs/2002.11985) [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf)
+* **P Ganesh**, X Lou, Y Chen, R Tan, D Yau, D Chen, M Winslett, _"Learning-based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"_, published in **IEEE Transactions on Smart Grid**, 2021,
+[\[link\]](https://ieeexplore.ieee.org/abstract/document/9352977) [\[pdf\]](http://prakharg24.github.io/files/learning_cps.pdf)
+* X Lou, C Tran, R Tan, D Yau, Z Kalbarczyk, A Banerjee, **P Ganesh**, _"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"_,  published in **IEEE Journal on Selected Areas in Communications**, 2020
+[\[link\]](https://ieeexplore.ieee.org/abstract/document/8892729) [\[pdf\]](http://prakharg24.github.io/files/assessing_cps.pdf)
