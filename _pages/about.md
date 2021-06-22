@@ -22,5 +22,3 @@ News!
 * _[Sep 2020]_ I'll be reviewing for [WACV 2021](http://wacv2021.thecvf.com/home).
 * _[Sep 2020]_ We have updated the latest version of our work on zero-shot abstractive summarization for conversations. Checkout the paper on [arxiv](https://arxiv.org/abs/1902.01615).
 * _[Jan 2020]_ Our paper **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/8892729).
-* _[Nov 2019]_ Our paper **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"** got accepted in IEEE JSAC.
-* _[June 2019]_ I'll be joining ADSC Singapore as Research Engineer.
