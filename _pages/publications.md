@@ -9,16 +9,8 @@ Refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user
 
 ## Publications
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Compressing Large-Scale Transformer-Based Models : A Case Study on BERT
+  published in ...
+  link to the paper ... along with bibtex
 
 ## Preprints
-
-{% include base_path %}
-
-{% for post in site.preprints reversed %}
-  {% include archive-preprint.html %}
-{% endfor %}
