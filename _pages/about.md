@@ -12,15 +12,15 @@ Hi! I’m Prakhar. I'm currently working as Research Engineer at [Advanced Digit
 
 News!
 ------
-* [July 2021] Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
-* [July 2021] I'll be transitioning between two official emails for the next few weeks. Contact me alternatively [here](mailto:prakhargannu@gmail.com) if I am not responding.
-* [June 2021] I'll be joining NUS MComp (AI specialization) program in August 2021.
-* [April 2021] Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** got accepted in TACL. Checkout the latest version on [arxiv](https://arxiv.org/abs/2002.11985).
-* [Feb 2021] Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** got accepted in IEEE TSG.
-* [Nov 2020] I'll be reviewing for [AAAi 2021](https://aaai.org/Conferences/AAAI-21/).
-* [Oct 2020] We have updated the latest version of our work on time series analysis in high frequency trading. Checkout the paper on [arxiv](https://arxiv.org/abs/1809.01506).
-* [Sep 2020] I'll be reviewing for [WACV 2021](http://wacv2021.thecvf.com/home).
-* [Sep 2020] We have updated the latest version of our work on zero-shot abstractive summarization for conversations. Checkout the paper on [arxiv](https://arxiv.org/abs/1902.01615).
-* [Jan 2020] Our paper **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/8892729).
-* [Nov 2019] Our paper **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"** got accepted in IEEE JSAC.
-* [June 2019] I'll be joining ADSC Singapore as Research Engineer.
+* _[July 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
+* _[July 2021]_ I'll be transitioning between two official emails for the next few weeks. Contact me alternatively [here](mailto:prakhargannu@gmail.com) if I am not responding.
+* _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
+* _[April 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** got accepted in TACL. Checkout the latest version on [arxiv](https://arxiv.org/abs/2002.11985).
+* _[Feb 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** got accepted in IEEE TSG.
+* _[Nov 2020]_ I'll be reviewing for [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+* _[Oct 2020]_ We have updated the latest version of our work on time series analysis in high frequency trading. Checkout the paper on [arxiv](https://arxiv.org/abs/1809.01506).
+* _[Sep 2020]_ I'll be reviewing for [WACV 2021](http://wacv2021.thecvf.com/home).
+* _[Sep 2020]_ We have updated the latest version of our work on zero-shot abstractive summarization for conversations. Checkout the paper on [arxiv](https://arxiv.org/abs/1902.01615).
+* _[Jan 2020]_ Our paper **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/8892729).
+* _[Nov 2019]_ Our paper **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"** got accepted in IEEE JSAC.
+* _[June 2019]_ I'll be joining ADSC Singapore as Research Engineer.
