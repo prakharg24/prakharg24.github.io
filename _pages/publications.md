@@ -20,5 +20,5 @@ Refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user
 {% include base_path %}
 
 {% for post in site.preprints reversed %}
-  {% include archive-single.html %}
+  {% include archive-preprint.html %}
 {% endfor %}
