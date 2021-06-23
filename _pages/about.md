@@ -12,9 +12,9 @@ Hi! I’m Prakhar. I'm currently working as Research Engineer at [Advanced Digit
 
 News!
 ------
-* _[July 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
-* _[July 2021]_ I'll be transitioning between two official emails for the next few weeks. Contact me alternatively [here](mailto:prakhargannu@gmail.com) if I am not responding.
+* _[June 2021]_ I'll be transitioning between two official emails for the next few weeks. Contact me alternatively [here](mailto:prakhargannu@gmail.com) if don't respond.
 * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
+* _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
 * _[April 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** got accepted in TACL. Checkout the latest version on [arxiv](https://arxiv.org/abs/2002.11985).
 * _[Feb 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** got accepted in IEEE TSG.
 * _[Nov 2020]_ I'll be reviewing for [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
