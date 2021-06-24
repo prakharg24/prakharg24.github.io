@@ -12,6 +12,6 @@ ADSC Email : [prakhar.g@adsc-create.edu.sg](mailto:prakhar.g@adsc-create.edu.sg)
 
 LinkedIn : [prakharg24](https://www.linkedin.com/in/prakharg24/)
 
-Person Email : [prakhargannu@gmail.com](mailto:prakhargannu@gmail.com)
+Personal Email : [prakhargannu@gmail.com](mailto:prakhargannu@gmail.com)
 
 Phone : (+65)-98131519
