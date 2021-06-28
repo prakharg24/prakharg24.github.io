@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao) for more details.
+Refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao) for more details.
 
 
 ## Preprints
@@ -21,7 +21,7 @@ Refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user
 
 ## Publications
 
-* **P Ganesh**, Y Chen, X Lou, M Khan, Y Yang, H Sajjad, P Nakov, D Chen, M Winslett, _"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"_, Accepted in **TACL**, 2021
+* **P Ganesh**, Y Chen, X Lou, M Khan, Y Yang, H Sajjad, P Nakov, D Chen, M Winslett, _"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"_, Accepted in **Transactions of the Association for Computational Linguistics**, 2021
 [\[arxiv\]](https://arxiv.org/abs/2002.11985) [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf)
 * **P Ganesh**, X Lou, Y Chen, R Tan, D Yau, D Chen, M Winslett, _"Learning-based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"_, Published in **IEEE Transactions on Smart Grid**, 2021,
 [\[link\]](https://ieeexplore.ieee.org/abstract/document/9352977) [\[pdf\]](http://prakharg24.github.io/files/learning_cps.pdf)
