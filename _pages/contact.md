@@ -6,9 +6,9 @@ redirect_from:
   - /contact.html
 ---
 
-NUS Email : [e0792462@u.nus.edu](mailto:e0792462@u.nus.edu)
+NUS Email : [pganesh@u.nus.edu](mailto:pganesh@u.nus.edu)
 
-ADSC Email : [prakhar.g@adsc-create.edu.sg](mailto:prakhar.g@adsc-create.edu.sg) (Leaving Soon)
+SoC Email : [pganesh@comp.nus.edu.sg](mailto:pganesh@comp.nus.edu.sg)
 
 LinkedIn : [prakharg24](https://www.linkedin.com/in/prakharg24/)
 
