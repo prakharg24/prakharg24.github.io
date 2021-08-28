@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prakhar. I'm currently working as a Research Engineer at [Advanced Digital Sciences Center](https://adsc.illinois.edu/), Singapore. I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/). **I will be joining Masters of Computing (AI specialization) at [NUS](https://www.comp.nus.edu.sg/) this coming August.** My research interests involve an investigative study of learning models through explainability, interpretability, robustness, compression, vulnerability, etc., in an attempt to decode the reasoning behind complex architecture designs. I like to push the limits of our understanding of neural networks. My long term goal is a career in research and academia in the field of AI.
+Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/). I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/) in 2019 and then joined [Advanced Digital Sciences Center](https://adsc.illinois.edu/), Singapore as Research Engineer. My research interests involve an investigative study of learning models through explainability, interpretability, robustness, compression, vulnerability, etc., in an attempt to decode the reasoning behind complex architecture designs. I like to push the limits of our understanding of neural networks. My long term goal is a career in research and academia in the field of AI.
 
 News!
 ------
-* _[June 2021]_ I'll be transitioning between two official emails for the next few weeks. Contact me alternatively [here](mailto:prakhargannu@gmail.com) if I don't respond.
 * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
 * _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
 * _[April 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** got accepted in TACL. Checkout the latest version on [arxiv](https://arxiv.org/abs/2002.11985).
