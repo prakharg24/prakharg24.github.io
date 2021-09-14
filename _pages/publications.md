@@ -8,19 +8,19 @@ author_profile: true
 Refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao) for more details.
 
 
-## Preprints
+## Preprints / Under Review
 
+* L Kong, **P Ganesh**, T Wang, J Liu, L Zhang, Y Chen, _"Free Lunch for Co-Saliency Detection: Context Adjustment"_
+[\[arxiv\]](https://arxiv.org/abs/2108.02093)
 * **P Ganesh**, S Dingliwal, _"Restructuring Conversations using Discourse Relations for Zero-shot Abstractive Dialogue Summarization"_
 [\[arxiv\]](https://arxiv.org/abs/1902.01615) [\[pdf\]](http://prakharg24.github.io/files/restructuring.pdf)
 * **P Ganesh**, G Gupta, S Saini, K Paul, _"Nucl2Vec : Local Alignment of DNA Sequences Using Distributed Vector Representation"_
 [\[biorxiv\]](https://www.biorxiv.org/content/10.1101/401851v2.abstract) [\[pdf\]](http://prakharg24.github.io/files/nucl2vec.pdf)
-* **P Ganesh**, P Rakheja, _"VLSTM: Very Long Short-Term Memory Networks for High-Frequency Trading"_
-[\[arxiv\]](https://arxiv.org/abs/1809.01506) [\[pdf\]](http://prakharg24.github.io/files/vlstm.pdf)
-* **P Ganesh**, S Dingliwal, R Agarwal, _"Literature Survey on Finding Influential Communities in Large Scale Networks"_
-[\[arxiv\]](https://arxiv.org/abs/1902.01629) [\[pdf\]](http://prakharg24.github.io/files/communities.pdf)
 
 ## Publications
 
+
+* Y Chen, X Liu, **P Ganesh**, J Pan, J Xiong, D Chen, _"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"_, Accepted in **ASP-DAC**, 2022
 * **P Ganesh**, Y Chen, X Lou, M Khan, Y Yang, H Sajjad, P Nakov, D Chen, M Winslett, _"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"_, Accepted in **Transactions of the Association for Computational Linguistics**, 2021
 [\[arxiv\]](https://arxiv.org/abs/2002.11985) [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf)
 * **P Ganesh**, X Lou, Y Chen, R Tan, D Yau, D Chen, M Winslett, _"Learning-based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"_, Published in **IEEE Transactions on Smart Grid**, 2021,
