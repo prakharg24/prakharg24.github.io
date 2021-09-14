@@ -12,6 +12,7 @@ Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NU
 
 News!
 ------
+* _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** got accepted in ASP DAC 2022.
 * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
 * _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
 * _[April 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** got accepted in TACL. Checkout the latest version on [arxiv](https://arxiv.org/abs/2002.11985).
