@@ -19,7 +19,7 @@ Refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAA
 
 ## Publications
 
-
+* **P Ganesh**, Y Chen, Y Yang, D Chen, M Winslett, _"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"_, Accepted in **WACV**, 2022
 * Y Chen, X Liu, **P Ganesh**, J Pan, J Xiong, D Chen, _"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"_, Accepted in **ASP-DAC**, 2022
 * **P Ganesh**, Y Chen, X Lou, M Khan, Y Yang, H Sajjad, P Nakov, D Chen, M Winslett, _"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"_, Accepted in **Transactions of the Association for Computational Linguistics**, 2021
 [\[arxiv\]](https://arxiv.org/abs/2002.11985){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"}
