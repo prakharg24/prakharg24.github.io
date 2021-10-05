@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/). I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/) in 2019 and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/) as a Research Engineer for two years. My research interests involve an investigative study of learning models through explainability, interpretability, robustness, compression, vulnerability, etc., in an attempt to decode the reasoning behind complex architecture designs. I like to push the limits of our understanding of neural networks. My long term goal is a career in research and academia in the field of AI.
+Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}. I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/) in 2019 and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/) as a Research Engineer for two years. My research interests involve an investigative study of learning models through explainability, interpretability, robustness, compression, vulnerability, etc., in an attempt to decode the reasoning behind complex architecture designs. I like to push the limits of our understanding of neural networks. My long term goal is a career in research and academia in the field of AI.
 
 News!
 ------
