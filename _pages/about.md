@@ -12,13 +12,14 @@ Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NU
 
 News!
 ------
+* _[Oct 2021]_ Our paper **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"** got accepted in WACV 2022.
+* _[Sep 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** is now available online at [The MIT Press](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A).
 * _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** got accepted in ASP DAC 2022.
 * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
-* _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
+* _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online at [IEEE Explore](https://ieeexplore.ieee.org/document/9352977).
 * _[April 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** got accepted in TACL. Checkout the latest version on [arxiv](https://arxiv.org/abs/2002.11985).
 * _[Feb 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** got accepted in IEEE TSG.
 * _[Nov 2020]_ I'll be reviewing for [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * _[Oct 2020]_ We have updated the latest version of our work on Time Series Analysis in High Frequency Trading. Checkout the paper on [arxiv](https://arxiv.org/abs/1809.01506).
 * _[Sep 2020]_ I'll be reviewing for [WACV 2021](http://wacv2021.thecvf.com/home).
 * _[Sep 2020]_ We have updated the latest version of our work on Zero-shot Abstractive Summarization for Conversations. Checkout the paper on [arxiv](https://arxiv.org/abs/1902.01615).
-* _[Jan 2020]_ Our paper **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"** is now available online on [IEEE Explore](https://ieeexplore.ieee.org/document/8892729).
