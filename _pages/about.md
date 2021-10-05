@@ -12,9 +12,9 @@ Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NU
 
 News!
 ------
-* _[Oct 2021]_ Our paper **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"** got accepted in WACV 2022. \[pdf coming soon\]
+* _[Oct 2021]_ Our paper **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"** got accepted in WACV 2022.
 * _[Sep 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** is now available online at The MIT Press. [\[link\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"}
-* _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** got accepted in ASP DAC 2022. \[pdf coming soon\]
+* _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** got accepted in ASP DAC 2022.
 * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
 * _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online at IEEE Explore. [\[link\]](https://ieeexplore.ieee.org/document/9352977){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/learning_cps.pdf){:target="_blank"}
 * _[Nov 2020]_ I'll be reviewing for [AAAI 2021](https://aaai.org/Conferences/AAAI-21/){:target="_blank"}.
