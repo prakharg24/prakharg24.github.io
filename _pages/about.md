@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}. I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"} in 2019 and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve an investigative study of learning models through explainability, interpretability, robustness, compression, vulnerability, etc., in an attempt to decode the reasoning behind complex architecture designs. I like to push the limits of our understanding of neural networks. My long term goal is a career in research and academia in the field of AI.
+Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}, under [Prof. Reza Shokri](https://www.comp.nus.edu.sg/~reza/){:target="_blank"}. I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"} in 2019 and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve an investigative study of learning models through fairness, explainability, privacy, robustness, compression, etc., in an attempt to decode the reasoning behind complex architecture designs. I like to push the limits of our understanding of neural networks. My long term goal is a career in research and academia in the field of AI.
 
 News!
 ------
+* _[May 2022]_ I'll be attending ACL 2022 in Dublin, Ireland!
+* _[Jan 2022]_ I'll be attending WACV 2022 virtually!
 * _[Nov 2021]_ We have updated the latest version of our work on Context Adjustment in Co-Saliency Detection. Checkout the paper on [arxiv](https://arxiv.org/abs/2108.02093){:target="_blank"}.
 * _[Oct 2021]_ Our paper **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"** got accepted in WACV 2022.
 * _[Sep 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** is now available online at The MIT Press. [\[link\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"}
