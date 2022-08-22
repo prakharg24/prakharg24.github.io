@@ -8,8 +8,7 @@ author_profile: true
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
 * P Ganesh, Y Chen, X Lou, M Khan, Y Yang, H Sajjad, P Nakov, D Chen, M Winslett, **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"**, Published at _Transactions of the Association for Computational Linguistics (TACL), 2021_, Presented at _60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)_
-
-[\[paper\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/bert_compression_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/bert_compression_poster.pdf){:target="_blank"} [\[video\]](https://drive.google.com/file/d/1FnrSMjpxDjSQZ85EQQZ4Cpqw33mi-riA/view?usp=sharing){:target="_blank"}
+  [\[paper\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/bert_compression_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/bert_compression_poster.pdf){:target="_blank"} [\[video\]](https://drive.google.com/file/d/1FnrSMjpxDjSQZ85EQQZ4Cpqw33mi-riA/view?usp=sharing){:target="_blank"}
 
 * X Lou, C Tran, R Tan, D Yau, Z Kalbarczyk, A Banerjee, P Ganesh, **"Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls"**,  Published at _IEEE Journal on Selected Areas in Communications, 2020_
 
