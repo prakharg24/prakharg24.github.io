@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}, under [Prof. Reza Shokri](https://www.comp.nus.edu.sg/~reza/){:target="_blank"}. I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"} in 2019 and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve an investigative study of learning models through fairness, explainability, privacy, robustness, and compression, in an attempt to decode the reasoning behind complex architecture designs. I like to push the limits of our understanding of neural networks. My long term goal is a career in research and academia in the field of AI.
+Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}, under [Prof. Reza Shokri](https://www.comp.nus.edu.sg/~reza/){:target="_blank"}. I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"} in 2019 and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve studying the challenges that arise in machine learning when moving from the sandbox to the real world, including fairness, privacy, adversarial robustness, compression, etc., by uncovering the learning dynamics of neural models. My long term goal is a career in research and academia in the field of AI.
 
 News!
 ------
