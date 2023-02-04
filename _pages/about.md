@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prakhar. I'm a Masters of Computing (AI specialization) student at [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}, under [Prof. Reza Shokri](https://www.comp.nus.edu.sg/~reza/){:target="_blank"}. I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"} in 2019 and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve studying the challenges that arise in machine learning when moving from the sandbox to the real world, including fairness, privacy, adversarial robustness, compression, etc., by uncovering the learning dynamics of neural models. My long term goal is a career in research and academia in the field of AI.
+Hi! I’m Prakhar. I recently graduated from [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}, with a Masters of Computing (AI specialization) under [Prof. Reza Shokri](https://www.comp.nus.edu.sg/~reza/){:target="_blank"}. Prior to that, I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"}and then worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve studying the challenges that arise in machine learning when moving from the sandbox to the real world, including fairness, privacy, adversarial robustness, compression, etc., by uncovering the learning dynamics of neural models. My long term goal is a career in research and academia in the field of AI.
 
 News!
 ------
+* _[Dec 2022]_ Submitted my Masters' Thesis at NUS. I'll be graduating soon! Actively looking to start a PhD from Fall 2023.
 * _[May 2022]_ I'll be attending ACL 2022 in Dublin, Ireland! I'll be presenting our work **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"**.
 * _[Jan 2022]_ I'll be attending WACV 2022 virtually! I'll be presenting our work **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"**.
 * _[Nov 2021]_ We have updated the latest version of our work on Context Adjustment in Co-Saliency Detection. Checkout the paper on [arxiv](https://arxiv.org/abs/2108.02093){:target="_blank"}.
