@@ -25,5 +25,5 @@ News!
 * _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** got accepted in ASP DAC 2022.
 * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
 * _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online at IEEE Explore. [\[link\]](https://ieeexplore.ieee.org/document/9352977){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/learning_cps.pdf){:target="_blank"}
-<!-- * _[Oct 2020]_ We have updated the latest version of our work on Time Series Analysis in High Frequency Trading. Checkout the paper on [arxiv](https://arxiv.org/abs/1809.01506){:target="_blank"}.
-* _[Sep 2020]_ We have updated the latest version of our work on Zero-shot Abstractive Summarization for Conversations. Checkout the paper on [arxiv](https://arxiv.org/abs/1902.01615){:target="_blank"}. -->
+<!-- * _[Oct 2020]_ We have updated the latest version of our work on Time Series Analysis in High Frequency Trading. Checkout the paper on [arxiv](https://arxiv.org/abs/1809.01506){:target="_blank"}. -->
+<!-- * _[Sep 2020]_ We have updated the latest version of our work on Zero-shot Abstractive Summarization for Conversations. Checkout the paper on [arxiv](https://arxiv.org/abs/1902.01615){:target="_blank"}. -->
