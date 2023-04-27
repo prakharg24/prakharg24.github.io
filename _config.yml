@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Prakhar Ganesh"
   avatar           : "profile.png"
-  bio              : "MComp (AI Specialization) <br> National University of Singapore (NUS)"
-  location         : "Singapore"
+  bio              : "Incoming PhD Student <br> UdeM & Mila"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao"
-  email            : "pganesh@comp.nus.edu.sg"
+  email            : "prakhar.ganesh@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
