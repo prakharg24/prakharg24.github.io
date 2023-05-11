@@ -7,16 +7,14 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
-* **On the Impact of Machine Learning Randomness on Group Fairness**
-Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri
-* **On the Impact of Machine Learning Randomness on Group Fairness**
-Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri
-_ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023)_
-[\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"}
 * **Compressing Large-Scale Transformer-Based Models : A Case Study on BERT**  
 Prakhar Ganesh, Yao Chen, Xin Lou, Mohammad Ali Khan, Yin "David" Yang, Hassan Sajjad, Preslav Nakov, Deming Chen, Marianne Winslett  
 _Transactions of the Association for Computational Linguistics (TACL), 2021_ (Presented at _ACL 2022_)  
 [\[paper\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/bert_compression_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/bert_compression_poster.pdf){:target="_blank"} [\[video\]](https://drive.google.com/file/d/1FnrSMjpxDjSQZ85EQQZ4Cpqw33mi-riA/view?usp=sharing){:target="_blank"}
+* **On the Impact of Machine Learning Randomness on Group Fairness**
+Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri
+_ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023)_
+[\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"}
 * **YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs**  
 Prakhar Ganesh, Yao Chen, Yin "David" Yang, Deming Chen, Marianne Winslett  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)_  
