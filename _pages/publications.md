@@ -7,6 +7,7 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
+
 * **On the Impact of Machine Learning Randomness on Group Fairness**
 Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri
 _ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023)_
