@@ -13,7 +13,7 @@ Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5
 * **On the Impact of Machine Learning Randomness on Group Fairness**  
 Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri  
 _ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023)_  
-[\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"}
+[\[paper\]](https://dl.acm.org/doi/abs/10.1145/3593013.3594116){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/fairness_variance_slides.pdf){:target="_blank"} [\[video\]](https://drive.google.com/file/d/1_SmOnaXdkP1E4Le-jz4b_7Ia8AcWfoRP/view?usp=sharing){:target="_blank"}
 * **Compressing Large-Scale Transformer-Based Models : A Case Study on BERT**  
 Prakhar Ganesh, Yao Chen, Xin Lou, Mohammad Ali Khan, Yin "David" Yang, Hassan Sajjad, Preslav Nakov, Deming Chen, Marianne Winslett  
 _Transactions of the Association for Computational Linguistics (TACL), 2021_ (Presented at _ACL 2022_)  

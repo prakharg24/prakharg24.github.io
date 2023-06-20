@@ -14,6 +14,8 @@ I'm starting my PhD under [Prof Golnoosh Farnadi](https://gfarnadi.github.io/) a
 
 News!
 ------
+* _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** won the [best paper award](https://twitter.com/FAccTConference/status/1668334064653434881) at FAccT 2023!
+* _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** is now available online at ACM Digital Library. [\[link\]](https://dl.acm.org/doi/abs/10.1145/3593013.3594116){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"}
 * _[Apr 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** got accepted in FAccT 2023. Camera-ready version coming soon.
 * _[Mar 2023]_ Accepted in a PhD program at Mila starting Fall 2023. Montreal, here I come!
 * _[Dec 2022]_ Submitted my Masters' Thesis at NUS. I'll be graduating soon! Actively looking to start a PhD from Fall 2023.
