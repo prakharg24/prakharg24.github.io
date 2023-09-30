@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prakhar. I recently graduated from [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}, with a Masters of Computing (AI specialization) under [Prof. Reza Shokri](https://www.comp.nus.edu.sg/~reza/){:target="_blank"}. Prior to that, I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"} and worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve studying the challenges that arise in machine learning when moving from the sandbox to the real world, including fairness, privacy, adversarial robustness, compression, etc., by uncovering the learning dynamics of neural models. My long term goal is a career in research and academia in the field of AI.
-
-I'm starting my PhD under [Prof Golnoosh Farnadi](https://gfarnadi.github.io/) at [UdeM](https://www.umontreal.ca/) and [Mila](https://mila.quebec/en/) from September 2023!
+Hi! I’m Prakhar. I'm a first year PhD student under [Prof Golnoosh Farnadi](https://gfarnadi.github.io/) at [UdeM](https://www.umontreal.ca/) and [Mila](https://mila.quebec/en/). I recently graduated from [NUS](https://www.comp.nus.edu.sg/){:target="_blank"}, with a Masters of Computing (AI specialization) under [Prof. Reza Shokri](https://www.comp.nus.edu.sg/~reza/){:target="_blank"}. Prior to that, I did my BTech in Computer Science and Engineering from [IIT Delhi](https://www.cse.iitd.ernet.in/){:target="_blank"} and worked at [Advanced Digital Sciences Center, Singapore](https://adsc.illinois.edu/){:target="_blank"} as a Research Engineer for two years. My research interests involve studying the challenges that arise in machine learning when moving from the sandbox to the real world, including fairness, privacy, adversarial robustness, compression, etc., by uncovering the learning dynamics of neural models. My long term goal is a career in research and academia in the field of AI.
 
 News!
 ------
+* _[Sep 2023]_ I've started my PhD at [Mila](https://mila.quebec/en/) in Montreal. Open to new collaborations, feel free to send me an email!
 * _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** won the [best paper award](https://twitter.com/FAccTConference/status/1668334064653434881) at FAccT 2023!
 * _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** is now available online at ACM Digital Library. [\[link\]](https://dl.acm.org/doi/abs/10.1145/3593013.3594116){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"}
 * _[Apr 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** got accepted in FAccT 2023. Camera-ready version coming soon.
@@ -25,7 +24,7 @@ News!
 * _[Oct 2021]_ Our paper **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"** got accepted in WACV 2022.
 * _[Sep 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** is now available online at The MIT Press. [\[link\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"}
 * _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** got accepted in ASP DAC 2022.
-* _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
-* _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online at IEEE Explore. [\[link\]](https://ieeexplore.ieee.org/document/9352977){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/learning_cps.pdf){:target="_blank"}
+<!-- * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021.
+* _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online at IEEE Explore. [\[link\]](https://ieeexplore.ieee.org/document/9352977){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/learning_cps.pdf){:target="_blank"} -->
 <!-- * _[Oct 2020]_ We have updated the latest version of our work on Time Series Analysis in High Frequency Trading. Checkout the paper on [arxiv](https://arxiv.org/abs/1809.01506){:target="_blank"}. -->
 <!-- * _[Sep 2020]_ We have updated the latest version of our work on Zero-shot Abstractive Summarization for Conversations. Checkout the paper on [arxiv](https://arxiv.org/abs/1902.01615){:target="_blank"}. -->

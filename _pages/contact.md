@@ -6,10 +6,10 @@ redirect_from:
   - /contact.html
 ---
 
-UdeM Email : [prakhar.ganesh@umontreal.ca](mailto:prakhar.ganesh@umontreal.ca)
+Mila Email : [prakhar.ganesh@mila.quebec](mailto:prakhar.ganesh@mila.quebec)
 
 LinkedIn : [prakharg24](https://www.linkedin.com/in/prakharg24/)
 
-Personal Email : [prakhargannu@gmail.com](mailto:prakhargannu@gmail.com)
+<!-- Personal Email : [prakhargannu@gmail.com](mailto:prakhargannu@gmail.com) -->
 
 <!-- Phone : (+65)-98131519 -->
