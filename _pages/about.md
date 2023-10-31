@@ -12,18 +12,19 @@ Hi! I’m Prakhar. I'm a first year PhD student under [Prof Golnoosh Farnadi](ht
 
 News!
 ------
+* -[Oct 2023]_ Our paper **"An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification"** will be published at WACV 2024. Camera-ready version coming soon.
 * _[Sep 2023]_ I've started my PhD at [Mila](https://mila.quebec/en/) in Montreal. Open to new collaborations, feel free to send me an email!
 * _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** won the [best paper award](https://twitter.com/FAccTConference/status/1668334064653434881) at FAccT 2023!
 * _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** is now available online at ACM Digital Library. [\[link\]](https://dl.acm.org/doi/abs/10.1145/3593013.3594116){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"}
-* _[Apr 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** got accepted in FAccT 2023. Camera-ready version coming soon.
+* _[Apr 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** will be published at FAccT 2023. Camera-ready version coming soon.
 * _[Mar 2023]_ Accepted in a PhD program at Mila starting Fall 2023. Montreal, here I come!
 * _[Dec 2022]_ Submitted my Masters' Thesis at NUS. I'll be graduating soon! Actively looking to start a PhD from Fall 2023.
 * _[May 2022]_ I'll be attending ACL 2022 in Dublin, Ireland! I'll be presenting our work **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"**.
 * _[Jan 2022]_ I'll be attending WACV 2022 virtually! I'll be presenting our work **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"**.
 * _[Nov 2021]_ We have updated the latest version of our work on Context Adjustment in Co-Saliency Detection. Checkout the paper on [arxiv](https://arxiv.org/abs/2108.02093){:target="_blank"}.
-* _[Oct 2021]_ Our paper **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"** got accepted in WACV 2022.
-* _[Sep 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** is now available online at The MIT Press. [\[link\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"}
-* _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** got accepted in ASP DAC 2022.
+* _[Oct 2021]_ Our paper **"YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs"** will be published at WACV 2022.
+<!-- * _[Sep 2021]_ Our paper **"Compressing Large-Scale Transformer-Based Models : A Case Study on BERT"** is now available online at The MIT Press. [\[link\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"} -->
+<!-- * _[Sep 2021]_ Our paper **"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation"** will be published at ASP DAC 2022. -->
 <!-- * _[June 2021]_ I'll be joining **NUS MComp (AI specialization)** program in August 2021. -->
 <!-- * _[June 2021]_ Our paper **"Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems"** is now available online at IEEE Explore. [\[link\]](https://ieeexplore.ieee.org/document/9352977){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/learning_cps.pdf){:target="_blank"} -->
 <!-- * _[Oct 2020]_ We have updated the latest version of our work on Time Series Analysis in High Frequency Trading. Checkout the paper on [arxiv](https://arxiv.org/abs/1809.01506){:target="_blank"}. -->
