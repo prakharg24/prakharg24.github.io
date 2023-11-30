@@ -12,7 +12,7 @@ Hi! I’m Prakhar. I'm a first year PhD student under [Prof Golnoosh Farnadi](ht
 
 News!
 ------
-* _[Oct 2023]_ Our paper **"An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification"** will be published at WACV 2024. Camera-ready version coming soon.
+* _[Nov 2023]_ Our paper **"An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification"** will be published at WACV 2024. Checkout the paper on [arxiv](https://arxiv.org/abs/2311.14859){:target="_blank"}.
 * _[Sep 2023]_ I've started my PhD at [Mila](https://mila.quebec/en/) in Montreal. Open to new collaborations, feel free to send me an email!
 * _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** won the [best paper award](https://twitter.com/FAccTConference/status/1668334064653434881) at FAccT 2023!
 * _[June 2023]_ Our paper **"On the Impact of Machine Learning Randomness of Group Fairness"** is now available online at ACM Digital Library. [\[link\]](https://dl.acm.org/doi/abs/10.1145/3593013.3594116){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fairness_variance.pdf){:target="_blank"}
