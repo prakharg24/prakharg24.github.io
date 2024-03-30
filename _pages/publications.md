@@ -12,7 +12,7 @@ Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5
 * **An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification**  
 Prakhar Ganesh  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)_  
-[\[paper\]](https://openaccess.thecvf.com/content/WACV2024/html/Ganesh_An_Empirical_Investigation_Into_Benchmarking_Model_Multiplicity_for_Trustworthy_Machine_WACV_2024_paper.html){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/multiplicity_benchmark.pdf){:target="_blank"}
+[\[paper\]](https://openaccess.thecvf.com/content/WACV2024/html/Ganesh_An_Empirical_Investigation_Into_Benchmarking_Model_Multiplicity_for_Trustworthy_Machine_WACV_2024_paper.html){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/multiplicity_benchmark.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/multiplicity_benchmark_slides.pdf){:target="_blank"}
 * **On the Impact of Machine Learning Randomness on Group Fairness**  
 Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri  
 _ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023)_  
