@@ -9,6 +9,13 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
+* **Towards More Realistic Extraction Attacks: An Adversarial Perspective**  
+Yash More, Prakhar Ganesh, Golnoosh Farnadi  
+_Workshop on Privacy in Natural Language Processing (PrivateNLP2024@ACL2024)_   
+* **The Data Minimization Principle in Machine Learning**  
+Prakhar Ganesh, Cuong Tran, Reza Shokri, Ferdinando Fioretto  
+_Preprint_  
+[\[arxiv\]](https://arxiv.org/abs/2405.19471){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/data_minimization.pdf){:target="_blank"} 
 * **An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification**  
 Prakhar Ganesh  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)_  
