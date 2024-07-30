@@ -9,17 +9,22 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
+* **The Cost of Arbitrariness for Individuals: Examining the Legal and Technical Challenges of Model Multiplicity**  
+Prakhar Ganesh, Ihsan Ibrahim Daldaban, Ignacio Cofone, Golnoosh Farnadi  
+_Preprint_   
+[\[arxiv\]](https://arxiv.org/abs/2407.13070){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/cost_arbitrariness.pdf){:target="_blank"}
 * **Towards More Realistic Extraction Attacks: An Adversarial Perspective**  
 Yash More, Prakhar Ganesh, Golnoosh Farnadi  
-_Workshop on Privacy in Natural Language Processing (PrivateNLP2024@ACL2024)_   
+_(Non-archival) Workshop on Privacy in Natural Language Processing (PrivateNLP@ACL2024)_   
+[\[arxiv\]](https://arxiv.org/abs/2407.02596){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/realistic_extraction.pdf){:target="_blank"}
 * **The Data Minimization Principle in Machine Learning**  
 Prakhar Ganesh, Cuong Tran, Reza Shokri, Ferdinando Fioretto  
-_Preprint_  
+_(Non-Archival) Workshop on Generative AI + Law (GenLaw@ICML2024)_  
 [\[arxiv\]](https://arxiv.org/abs/2405.19471){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/data_minimization.pdf){:target="_blank"} 
 * **An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification**  
 Prakhar Ganesh  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)_  
-[\[paper\]](https://openaccess.thecvf.com/content/WACV2024/html/Ganesh_An_Empirical_Investigation_Into_Benchmarking_Model_Multiplicity_for_Trustworthy_Machine_WACV_2024_paper.html){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/multiplicity_benchmark.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/multiplicity_benchmark_slides.pdf){:target="_blank"}
+[\[paper\]](https://openaccess.thecvf.com/content/WACV2024/html/Ganesh_An_Empirical_Investigation_Into_Benchmarking_Model_Multiplicity_for_Trustworthy_Machine_WACV_2024_paper.html){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/multiplicity_benchmark.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/multiplicity_benchmark_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/multiplicity_benchmark_poster.pdf){:target="_blank"} [\[video\]](https://drive.google.com/file/d/1GKME5MCUzxYRMTSzJo4oJhykY0Ol40aZ/view?usp=sharing){:target="_blank"}
 * **On the Impact of Machine Learning Randomness on Group Fairness**  
 Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri  
 _ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023)_  
