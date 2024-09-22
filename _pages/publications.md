@@ -9,10 +9,6 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
-* **The Cost of Arbitrariness for Individuals: Examining the Legal and Technical Challenges of Model Multiplicity**  
-Prakhar Ganesh, Ihsan Ibrahim Daldaban, Ignacio Cofone, Golnoosh Farnadi  
-_Preprint_   
-[\[arxiv\]](https://arxiv.org/abs/2407.13070){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/cost_arbitrariness.pdf){:target="_blank"}
 * **Towards More Realistic Extraction Attacks: An Adversarial Perspective**  
 Yash More, Prakhar Ganesh, Golnoosh Farnadi  
 _(Non-archival) Workshop on Privacy in Natural Language Processing (PrivateNLP@ACL2024)_   
