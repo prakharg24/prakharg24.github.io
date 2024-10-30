@@ -9,6 +9,10 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
+* **Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML**  
+Prakhar Ganesh, Usman Gohar, Lu Cheng, Golnoosh Farnadi  
+_Workshop on Algorithmic Fairness Through the Lens of Metrics and Evaluation (AFME@NeurIPS2024)_   
+\[coming soon\]
 * **Towards More Realistic Extraction Attacks: An Adversarial Perspective**  
 Yash More, Prakhar Ganesh, Golnoosh Farnadi  
 _(Non-archival) Workshop on Privacy in Natural Language Processing (PrivateNLP@ACL2024)_   
