@@ -7,7 +7,8 @@ author_profile: true
 
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
-Please find all my slides for various presentations that I've given over the years, not directly linked to a single paper. I try to keep this updated, but if you don't find the slides you're looking for, feel free to shoot me an email.
+Slides for presentations that I've given which are not linked to a specific paper, as well as lectures and other miscellaneous slides. If you are looking for slides of presentations for my papers, check the publications tab.  
+I try to keep this updated, but if you don't find the slides you're looking for, feel free to shoot me an email. I'm always happy to share slides, under the right set of the permission.
 
 * **Mila Responsible AI Week: The Curious Case of Arbitrariness in Machine Learning**  
 Oct 16, 2024  
