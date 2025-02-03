@@ -9,6 +9,10 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
+* **The Curious Case of Arbitrariness in Machine Learning**  
+Prakhar Ganesh, Afaf Taik, Golnoosh Farnadi  
+_Preprint_  
+[\[arxiv\]](https://arxiv.org/abs/2501.14959){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/arbitrariness.pdf){:target="_blank"}
 * **Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML**  
 Prakhar Ganesh, Usman Gohar, Lu Cheng, Golnoosh Farnadi  
 _(Spotlight Presentation) Workshop on Algorithmic Fairness Through the Lens of Metrics and Evaluation (AFME@NeurIPS2024)_   
