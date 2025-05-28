@@ -7,9 +7,17 @@ author_profile: true
 
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
-Slides for presentations that I've given which are not linked to a specific paper, as well as lectures and other miscellaneous slides. If you are looking for slides of presentations for my papers, check the publications tab.  
+Slides for presentations/lectures/talks that I've given, which are not linked to a specific paper.
 I try to keep this updated, but if you don't find the slides you're looking for, feel free to shoot me an email.
 
+Feel free to use the slides if you find them valuable, but with appropriate attribution.
+
+* **Mila Summer School in RAI and Human Rights: Technical Mitigation Strategies (First Half Only)**  
+May 28, 2025  
+[\[slides\]](http://prakharg24.github.io/files/technical_mitigation_slides.pdf){:target="_blank"}
+* **AI4Good Lab: NLP Recap Session**  
+May 23, 2025  
+[\[slides\]](http://prakharg24.github.io/files/nlp_recap_slides.pdf){:target="_blank"}
 * **Mila Responsible AI Week: The Curious Case of Arbitrariness in Machine Learning**  
 Oct 16, 2024  
 [\[slides\]](http://prakharg24.github.io/files/raiw_slides.pdf){:target="_blank"}
