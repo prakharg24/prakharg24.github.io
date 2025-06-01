@@ -9,6 +9,20 @@ author_profile: true
 
 Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
 
+* **Say It Another Way: Auditing LLMs with a User-Grounded Automated Paraphrasing Framework**  
+Cléa Chataigner, Rebecca Ma, Prakhar Ganesh, Afaf Taïk, Elliot Creager, Golnoosh Farnadi  
+_Preprint_   
+[\[arxiv\]](https://arxiv.org/abs/2505.03563){:target="_blank"}
+* **Rethinking Hallucinations: Correctness, Consistency, and Prompt Multiplicity**  
+Prakhar Ganesh, Reza Shokri, Golnoosh Farnadi  
+_(Non-archival) Workshop on Building Trust in LLMs and LLM Applications (BuildingTrust@ICLR2025)_   
+[\[paper\]](https://openreview.net/forum?id=yr0QEDDTSO){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/rethinking.pdf){:target="_blank"}
+* **The Data Minimization Principle in Machine Learning**  
+Prakhar Ganesh, Cuong Tran, Reza Shokri, Ferdinando Fioretto  
+_ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025)_  
+_(Contributed Talk) (Non-Archival) Workshop on Regulatable ML (RegML@NeurIPS2024)_  
+_(Non-Archival) Workshop on Generative AI + Law (GenLaw@ICML2024)_  
+[\[arxiv\]](https://arxiv.org/abs/2405.19471){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/data_minimization.pdf){:target="_blank"} 
 * **The Curious Case of Arbitrariness in Machine Learning**  
 Prakhar Ganesh, Afaf Taik, Golnoosh Farnadi  
 _Preprint_  
@@ -16,16 +30,11 @@ _Preprint_
 * **Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML**  
 Prakhar Ganesh, Usman Gohar, Lu Cheng, Golnoosh Farnadi  
 _(Spotlight Presentation) Workshop on Algorithmic Fairness Through the Lens of Metrics and Evaluation (AFME@NeurIPS2024)_   
-[\[arxiv\]](https://arxiv.org/abs/2411.11101){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fair_eval.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/fair_eval_poster.pdf){:target="_blank"}
+[\[paper\]](https://proceedings.mlr.press/v279/ganesh25a.html){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fair_eval.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/fair_eval_poster.pdf){:target="_blank"}
 * **Towards More Realistic Extraction Attacks: An Adversarial Perspective**  
 Yash More, Prakhar Ganesh, Golnoosh Farnadi  
 _(Non-archival) Workshop on Privacy in Natural Language Processing (PrivateNLP@ACL2024)_   
 [\[arxiv\]](https://arxiv.org/abs/2407.02596){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/realistic_extraction.pdf){:target="_blank"}
-* **The Data Minimization Principle in Machine Learning**  
-Prakhar Ganesh, Cuong Tran, Reza Shokri, Ferdinando Fioretto  
-_(Contributed Talk) (Non-Archival) Workshop on Regulatable ML (RegML@NeurIPS2024)_  
-_(Non-Archival) Workshop on Generative AI + Law (GenLaw@ICML2024)_  
-[\[arxiv\]](https://arxiv.org/abs/2405.19471){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/data_minimization.pdf){:target="_blank"} 
 * **An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification**  
 Prakhar Ganesh  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)_  
