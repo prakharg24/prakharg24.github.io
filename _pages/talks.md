@@ -12,7 +12,7 @@ I try to keep this updated, but if you don't find the slides you're looking for,
 
 Feel free to use or adopt the slides, with appropriate attribution, if you find them valuable.
 
-* **ACM FAccT Tutorial: The Many Faces of Multiplicity in ML (Please contact ALL authors before using or adopting the slides)**  
+* **ACM FAccT Tutorial: The Many Faces of Multiplicity in ML** (Please contact ALL authors before using or adopting the slides)  
 Jun 23, 2025  
 [\[webpage\]](http://prakharg24.github.io/multiplicity-tutorial/){:target="_blank"}
 * **Mila Summer School in RAI and Human Rights: Technical Mitigation Strategies (First Half Only)**  
