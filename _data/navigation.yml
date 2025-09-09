@@ -3,8 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Slides"
-    url: /talks/
+    url: /slides/
 
   - title: "Blog"
     url: https://medium.com/@prakhargannu
