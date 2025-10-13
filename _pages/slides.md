@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
-Slides for presentations/lectures/talks that I've given, which are not linked to a specific paper.
+Slides for talks that I've given, which are not linked to a specific paper or course.
 I try to keep this updated, but if you don't find the slides you're looking for, shoot me an email.
 
 Feel free to use or adopt the slides, with appropriate attribution, if you find them valuable.
