@@ -12,7 +12,7 @@ I try to keep this updated, but if you don't find the slides you're looking for,
 
 Feel free to use or adopt the slides, with appropriate attribution, if you find them valuable.
 
-* **Indigenous Pathfinders in AI: Intro to ML Lectures**  
+* **Indigenous Pathfinders in AIs**  
 Summer 2025  
 [\[Choosing Appropriate ML Techniques\]](http://prakharg24.github.io/files/ipai2025_choosing_slides.pdf){:target="_blank"} [\[Intro to NLP (Session 1)\]](http://prakharg24.github.io/files/ipai2025_nlp_part1_slides.pdf){:target="_blank"} [\[Intro to NLP (Session 2)\]](http://prakharg24.github.io/files/ipai2025_nlp_part2_slides.pdf){:target="_blank"} [\[Intro to NLP (Session 3)\]](http://prakharg24.github.io/files/ipai2025_nlp_part3_slides.pdf){:target="_blank"}
 * **ACM FAccT Tutorial: The Many Faces of Multiplicity in ML** (Please contact ALL authors before using or adopting the slides)  
@@ -27,7 +27,7 @@ May 23, 2025
 * **Mila Responsible AI Week: The Curious Case of Arbitrariness in Machine Learning**  
 Oct 16, 2024  
 [\[slides\]](http://prakharg24.github.io/files/raiw_slides.pdf){:target="_blank"}
-* **Indigenous Pathfinders in AI: Intro to ML Lectures**  
+* **Indigenous Pathfinders in AI**  
 Summer 2024  
 [\[Intro to ML (Session 4)\]](http://prakharg24.github.io/files/ipai_intro4_slides.pdf){:target="_blank"} [\[Intro to NLP (Session 1)\]](http://prakharg24.github.io/files/ipai_nlp_part1_slides.pdf){:target="_blank"} [\[Intro to NLP (Session 2)\]](http://prakharg24.github.io/files/ipai_nlp_part2_slides.pdf){:target="_blank"} [\[Intro to Data Privacy\]](http://prakharg24.github.io/files/ipai_privacy_slides.pdf){:target="_blank"}
 * **COMP 597: Machine Unlearning**  
