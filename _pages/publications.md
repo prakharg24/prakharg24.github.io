@@ -15,7 +15,7 @@ _Conference of the European Chapter of the Association for Computational Linguis
 _(Non-archival) Workshop on Building Trust in LLMs and LLM Applications (BuildingTrust@ICLR2025)_   
 [\[arxiv\]](https://arxiv.org/abs/2602.00723){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/rethinking.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/rethinking_poster.pdf){:target="_blank"}
 * **Say It Another Way: Auditing LLMs with a User-Grounded Automated Paraphrasing Framework**  
-Cléa Chataigner*, Rebecca Ma*, Prakhar Ganesh, Yuhao Chen, Afaf Taïk, Elliot Creager, Golnoosh Farnadi  
+Cléa Chataigner\*, Rebecca Ma\*, Prakhar Ganesh, Yuhao Chen, Afaf Taïk, Elliot Creager, Golnoosh Farnadi  
 _Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)_   
 [\[arxiv\]](https://arxiv.org/abs/2505.03563){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/augment.pdf){:target="_blank"}
 * **SoK: Data Minimization in Machine Learning**  
@@ -31,7 +31,7 @@ Prakhar Ganesh, Afaf Taik, Golnoosh Farnadi
 _AAAI/ACM Conference on AI, Ethics, and Society (AIES 2025)_  
 [\[paper\]](https://ojs.aaai.org/index.php/AIES/article/view/36609){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/arbitrariness.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/arbitrariness_poster.pdf){:target="_blank"}
 * **Towards More Realistic Extraction Attacks: An Adversarial Perspective**  
-Yash More*, Prakhar Ganesh*, Golnoosh Farnadi  
+Yash More\*, Prakhar Ganesh\*, Golnoosh Farnadi  
 _Transactions of the Association for Computational Linguistics (TACL), 2025_   
 _(Non-archival) Workshop on Privacy in Natural Language Processing (PrivateNLP@ACL2024)_   
 [\[paper\]](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.62/134536){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/realistic_extraction.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/realistic_extraction_poster.pdf){:target="_blank"}
@@ -42,7 +42,7 @@ _(Contributed Talk) (Non-Archival) Workshop on Regulatable ML (RegML@NeurIPS2024
 _(Non-Archival) Workshop on Generative AI + Law (GenLaw@ICML2024)_  
 [\[paper\]](https://dl.acm.org/doi/10.1145/3715275.3732195){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/data_minimization.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/data_minimization_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/data_minimization_poster.pdf){:target="_blank"} [\[video\]](https://projector-web.gr/Mindview/en/facct-conference-2025/videos-on-demand/22185/p-ganesh){:target="_blank"} 
 * **Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML**  
-Prakhar Ganesh*, Usman Gohar*, Lu Cheng, Golnoosh Farnadi  
+Prakhar Ganesh\*, Usman Gohar\*, Lu Cheng, Golnoosh Farnadi  
 _(Spotlight Presentation) Workshop on Algorithmic Fairness Through the Lens of Metrics and Evaluation (AFME@NeurIPS2024)_   
 [\[paper\]](https://proceedings.mlr.press/v279/ganesh25a.html){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/fair_eval.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/fair_eval_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/fair_eval_poster.pdf){:target="_blank"} [\[video\]](https://neurips.cc/virtual/2024/workshop/84718#wse-detail-105641){:target="_blank"}
 * **An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification**  
@@ -59,7 +59,7 @@ _Transactions of the Association for Computational Linguistics (TACL), 2021_
 Presented at _Association for Computational Linguistics (ACL 2022)_  
 [\[paper\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00413/107387/Compressing-Large-Scale-Transformer-Based-Models-A){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/bert_compression.pdf){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/bert_compression_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/bert_compression_poster.pdf){:target="_blank"} [\[video\]](https://drive.google.com/file/d/1FnrSMjpxDjSQZ85EQQZ4Cpqw33mi-riA/view?usp=sharing){:target="_blank"}
 * **YOLO-ReT: Towards High Accuracy Real-time Object Detection on Mobile GPUs**  
-Prakhar Ganesh*, Yao Chen*, Yin "David" Yang, Deming Chen, Marianne Winslett  
+Prakhar Ganesh\*, Yao Chen\*, Yin "David" Yang, Deming Chen, Marianne Winslett  
 _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)_  
 [\[paper\]](https://openaccess.thecvf.com/content/WACV2022/html/Ganesh_YOLO-ReT_Towards_High_Accuracy_Real-Time_Object_Detection_on_Edge_GPUs_WACV_2022_paper.html){:target="_blank"} [\[pdf\]](http://prakharg24.github.io/files/yolo_ret.pdf){:target="_blank"} [\[code\]](https://github.com/prakharg24/yoloret){:target="_blank"} [\[slides\]](http://prakharg24.github.io/files/yolo_ret_slides.pdf){:target="_blank"} [\[poster\]](http://prakharg24.github.io/files/yolo_ret_poster.pdf){:target="_blank"} [\[video\]](https://drive.google.com/file/d/18j-OdX7ChcvLbNW0jO-qGbODRqZmDiX9/view?usp=sharing){:target="_blank"}
 * **HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation**  
