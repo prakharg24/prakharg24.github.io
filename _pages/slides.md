@@ -12,6 +12,9 @@ I try to keep this updated, but if you don't find the slides you're looking for,
 
 Feel free to use or adopt the slides, with appropriate attribution, if you find them valuable.
 
+* **ACM FAccT Tutorial: How to Cheat Responsible AI Audits (and Prevent Cheating)** (Please contact ALL authors before using or adopting the slides)  
+Jun 28, 2026  
+[\[webpage\]](http://prakharg24.github.io/audit-tutorial/){:target="_blank"}
 * **AAAI Tutorial: The Many Faces of Multiplicity in ML** (Please contact ALL authors before using or adopting the slides)  
 Jan 20, 2026  
 [\[webpage\]](https://prakharg24.github.io/multiplicity-tutorial-aaai/){:target="_blank"}
@@ -21,7 +24,7 @@ Summer 2025
 * **ACM FAccT Tutorial: The Many Faces of Multiplicity in ML** (Please contact ALL authors before using or adopting the slides)  
 Jun 23, 2025  
 [\[webpage\]](http://prakharg24.github.io/multiplicity-tutorial/){:target="_blank"}
-* **Mila Summer School in RAI and Human Rights: Technical Mitigation Strategies (First Half Only)**  
+* **Mila Summer School in RAI and Human Rights: Technical Mitigation Strategies** (First Half Only)  
 May 28, 2025  
 [\[slides\]](http://prakharg24.github.io/files/technical_mitigation_slides.pdf){:target="_blank"}
 * **AI4Good Lab: NLP Recap Session**  

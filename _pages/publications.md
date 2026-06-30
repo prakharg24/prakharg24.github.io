@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
-Please refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} for latest updates.
+Refer to [Google Scholar](https://scholar.google.co.in/citations?user=Xd5QJoEAAAAJ&hl=en&oi=ao){:target="_blank"} or my [CV](https://prakharg24.github.io/cv.pdf){:target="_blank"} for latest updates.
 
 * **Rethinking Hallucinations: Correctness, Consistency, and Prompt Multiplicity**  
 Prakhar Ganesh, Reza Shokri, Golnoosh Farnadi  
