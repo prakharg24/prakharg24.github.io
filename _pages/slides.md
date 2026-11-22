@@ -12,6 +12,9 @@ I try to keep this updated, but if you don't find the slides you're looking for,
 
 Feel free to use or adopt the slides, with appropriate attribution, if you find them valuable.
 
+* **Deep Learning Classics and Trends (DLCT): Homogenization in Multi-Agent Systems**   
+Nov 20, 2026  
+[\[slides\]](http://prakharg24.github.io/files/homogenization_mas_slides.pdf){:target="_blank"}
 * **ACM FAccT Tutorial: How to Cheat Responsible AI Audits (and Prevent Cheating)** (Please contact ALL authors before using or adopting the slides)  
 Jun 28, 2026  
 [\[webpage\]](http://prakharg24.github.io/audit-tutorial/){:target="_blank"}
